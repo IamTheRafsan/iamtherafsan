@@ -4,12 +4,12 @@
   <tr>
     <td align="left">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan" />
-      </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan&layout=donut-vertical" />
+    </a>
     </td>
     <td align="right">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan&layout=donut-vertical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan" />
       </a>
     </td>
     <td>
@@ -18,8 +18,5 @@
   </tr>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtherafsan" />
-</a>
 
 
