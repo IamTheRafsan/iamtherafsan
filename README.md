@@ -12,6 +12,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan&layout=donut-vertical" />
       </a>
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iamtherafsan" />
+    </td>
   </tr>
 </table>
 
