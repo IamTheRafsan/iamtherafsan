@@ -1,11 +1,22 @@
 ## Hi there 👋
 
-<div align="left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align="right">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtherafsan&layout=donut-vertical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtherafsan)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtherafsan" />
+</a>
+
 
